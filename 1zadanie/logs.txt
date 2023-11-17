@@ -1,0 +1,18 @@
+
+Physical cores:1
+Total cores:1
+Core 0: 3.1%
+Total CPU Usage: 3.1%
+
+Total: 1.94GB
+Available: 528.55MB
+Used: 1.24GB
+Percentage: 73.3%
+
+NoneКоманда работает только в ОС Windows
+('C диск информация:', sdiskpart(device='/dev/sda1', mountpoint='/', fstype='ext4', opts='rw,relatime,errors=remount-ro', maxfile=255, maxpath=4096))
+всего = 1014120448
+используется = 0
+свободно = 1014120448
+процент = 0.0
+
